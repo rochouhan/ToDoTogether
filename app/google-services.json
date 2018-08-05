@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280463900439",
+    "firebase_url": "https://todotogether-c43e4.firebaseio.com",
+    "project_id": "todotogether-c43e4",
+    "storage_bucket": "todotogether-c43e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280463900439:android:f7ea4e944a521592",
+        "android_client_info": {
+          "package_name": "com.chouhan.rohit.todotogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280463900439-q9gj5ooofr17c4buicshh32bfenhs46n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chouhan.rohit.todotogether",
+            "certificate_hash": "880dd09d9340ca5d0b2ab0cf4cfda1eb4a2627c4"
+          }
+        },
+        {
+          "client_id": "280463900439-8gpav44tpqqouvenrcemk3osp4u97j8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLv_qGHmpoHvvqfewC8EZEu5DtiAraE_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280463900439-8gpav44tpqqouvenrcemk3osp4u97j8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
